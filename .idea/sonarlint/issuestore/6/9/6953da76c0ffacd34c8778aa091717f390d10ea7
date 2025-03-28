@@ -1,0 +1,52 @@
+
+	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó›ßõÏ2J$057a0d4b-4f8b-45d1-a9d2-c949385cc6d0
+	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó›ßõÏ2J$4b1e6d56-6c32-45e1-81b6-d2f1544ab7fc
+	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó›ßõÏ2J$21d66b94-6669-4a9e-9259-c94ac858995e
+	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó›ßõÏ2J$245e8eed-54d6-48c1-acc6-1e4398c0cdf1
+	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ó›ßõÏ2J$1520b0c7-4032-4a9c-aab7-2f1d77c129d9
+ª
+java:S1488S"bImmediately return this expression instead of assigning it to the temporary variable "carDTOList".(µ°×Óøÿÿÿÿ8Ô›ßõÏ2J$184b2e3c-ee73-4392-a2cb-b0ed700b35cf
+©
+java:S1488®"`Immediately return this expression instead of assigning it to the temporary variable "carList1".(äÊÎÜøÿÿÿÿ8Ô›ßõÏ2J$8353a1b4-6424-421c-859f-6c86fc8c8201
+q
+java:S5411š"(Use a primitive boolean expression here.(àá‹ıÿÿÿÿÿ8Õ›ßõÏ2J$7a17e578-9a24-428f-a336-b1f712b5c6dc
+
+java:S3973Æ"GUse indentation to denote the code conditionally executed by this "if".(†´®¸ÿÿÿÿÿ8Ö›ßõÏ2J$c936b421-cf77-49cc-afa1-41b8d8c5c611
+u
+java:S39586"2Refactor the code so this stream pipeline is used.(ÎšÀÏ8¸©áõÏ2J$a36c92bc-ee63-400a-b5fe-1d7d8f7a4456
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş›ßõÏ2J$e3cc908b-60ef-426f-b986-8b48447aad47
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş›ßõÏ2J$8dace30b-e2af-4521-af1e-f2d2788402c6
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş›ßõÏ2J$6b020232-8af5-41ef-b6b9-f7cd9ddce7b7
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş›ßõÏ2J$51f7327e-6ee8-431f-afe6-abce03bc8395
+‚
+java:S1854*":Remove this useless assignment to local variable "carObj".(µÉìĞÿÿÿÿÿ8à›ßõÏ2J$925c0f0d-4074-4c03-96b1-3add2fcb9942
+|
+java:S1854)":Remove this useless assignment to local variable "random".(¼İÅf8á›ßõÏ2J$ac3932f2-016e-4d08-9598-7ba8e56ccdae
+}	java:S125&"<This block of commented-out lines of code should be removed.(Èòİ8á›ßõÏ2J$01e79420-3c1f-4478-bf9f-4667778fb18b
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(ÉÉÔËıÿÿÿÿ8á›ßõÏ2J$ebe6b0ba-42b4-444b-a286-b9f63265d2a8
+`
+java:S2119)"Save and re-use this "Random".(¼İÅf8ã›ßõÏ2J$f34be7b2-f994-4ce1-884c-935dd3835b57
+m
+java:S1481)"+Remove this unused "random" local variable.(¼İÅf8ã›ßõÏ2J$4cdc9910-9747-41b9-8429-54ad69db39a7
+~	java:S1258"<This block of commented-out lines of code should be removed.(™Ãº8å›ßõÏ2J$d0c80b8a-cf5e-44b4-b95f-bb0c5b6e70cf
+~	java:S125B"<This block of commented-out lines of code should be removed.(Û“³á8æ›ßõÏ2J$084dafcf-d3c9-4f4a-8ccb-00cdc2ca3dcf
+~	java:S125E"<This block of commented-out lines of code should be removed.(˜â8æ›ßõÏ2J$4a57c188-5545-47ed-afde-2e8fbecec1c1
+ƒ	java:S125K"<This block of commented-out lines of code should be removed.(İº× ùÿÿÿÿ8ç›ßõÏ2J$25204995-9e77-47cc-a1a4-a812208e9533
+~	java:S125y"<This block of commented-out lines of code should be removed.(ÕÅ‹8è›ßõÏ2J$85d5071f-b37d-4e4d-8ea9-4a2a460032ab
+†
+java:S1854–"=Remove this useless assignment to local variable "carList12".(“˜¯úÿÿÿÿ8ê›ßõÏ2J$7a3cca10-22c0-4d1c-9dcd-7fed8db9dce1
+„	java:S125"<This block of commented-out lines of code should be removed.(ùæÛ°ÿÿÿÿÿ8ê›ßõÏ2J$b7240ed5-1d5f-475f-8b64-9e5191e37708
+Š
+java:S1126š"AReplace this if-then-else statement by a single return statement.(àá‹ıÿÿÿÿÿ8ë›ßõÏ2J$09b2d30f-389e-46ca-91f0-960c6c6562d4
+w
+java:S1481–".Remove this unused "carList12" local variable.(“˜¯úÿÿÿÿ8ë›ßõÏ2J$65caf284-8580-4d27-a172-615291b42fa3
+	java:S125"<This block of commented-out lines of code should be removed.(éÏâË8ë›ßõÏ2J$fde84851-2ecc-47bb-8d2d-3f9dd45adbd8
+Š
+java:S1126²"AReplace this if-then-else statement by a single return statement.(ïÍä©üÿÿÿÿ8ë›ßõÏ2J$dfe8ea9e-431d-4911-940c-129e255c22c6
+	java:S125¿"<This block of commented-out lines of code should be removed.(Àºıá8ì›ßõÏ2J$0a14b096-c7bc-44f5-a779-066e7d5a2cb5
+â
+java:S1130Ä"Remove the declaration of thrown exception 'com.example.carapplication.exceptions.DriverIsNotAvailabileException', as it cannot be thrown from method's body.(Éâ¡½8ì›ßõÏ2J$938d5189-b2b9-411b-becf-797a89e8dd44

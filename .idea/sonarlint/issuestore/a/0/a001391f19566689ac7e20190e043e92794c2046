@@ -1,0 +1,66 @@
+
+
+java:S1192/"JDefine a constant instead of duplicating this literal "not found" 5 times.(¥å®8ü ÅÑ2J$bebbddb1-da50-43cf-b94a-e9fdda952244
+´
+java:S1488ø"kImmediately return this expression instead of assigning it to the temporary variable "customerCarResponse".(ä™å‰şÿÿÿÿ8ı ÅÑ2J$2fcbb80c-20b8-42bf-8a5c-b623b541e77b
+p
+java:S5411a"(Use a primitive boolean expression here.(àá‹ıÿÿÿÿÿ8ş ÅÑ2J$31bf3a50-e18e-4ba7-98fa-cf2fb5b0fb04
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$8ca47e80-d3b2-4473-b80d-e2b9793b5f6b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$ed988fb2-adf9-468b-aa7c-59b6d4db23a0
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$f3a2611e-2428-4a25-a582-bb5be61d187f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$2c7dae8b-ac8d-46f8-8a18-de31b9417ad3
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$a3acad77-7d21-46bc-a68e-d59aa1bb0365
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$0c604bd0-08fa-4af1-9b7a-0d2eea8f7413
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$80b0c292-2d93-47a4-a512-8f954d7209eb
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜¡ÅÑ2J$bebd2fb4-97d2-471a-87e2-9e6aa8efa04f
+„
+java:S1854+"<Remove this useless assignment to local variable "customer".(âî¤ ùÿÿÿÿ8š¡ÅÑ2J$f873e69a-3452-4a15-b038-efef278ad7e8
+}	java:S125."<This block of commented-out lines of code should be removed.(ñÈíS8›¡ÅÑ2J$e46059f9-8998-4397-a717-2a253a0e9964
+…
+java:S1854F"BRemove this useless assignment to local variable "carListsOfMake".(ğ ­˜8œ¡ÅÑ2J$6c7f10df-acb0-4e96-9421-24f30b70051b
+ˆ
+java:S1854E"@Remove this useless assignment to local variable "carsMakeName".(°Äºªÿÿÿÿÿ8œ¡ÅÑ2J$5fed00ca-8434-41f2-8d70-686a80fc4945
+„
+java:S1854e"<Remove this useless assignment to local variable "carList2".(«ãÊøÿÿÿÿ8œ¡ÅÑ2J$aa8ef4f9-cb6b-4f58-afd5-1e2af6f86c5f
+„
+java:S1854^"<Remove this useless assignment to local variable "carList1".(ÜâÒïıÿÿÿÿ8œ¡ÅÑ2J$e54e38ab-1c2e-47cc-9916-9a3ad2fc72a0
+
+java:S1612?"FReplace this lambda with method reference 'Location::getLocationCode'.(ê¡Ÿœüÿÿÿÿ8¡ÅÑ2J$e34088d0-7fa1-4516-bf66-8d32c67932f3
+„
+java:S1126@"AReplace this if-then-else statement by a single return statement.(Ş††ƒ8¡ÅÑ2J$80f2af75-834a-4245-b1ff-2ef2648d58fa
+€
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(ÿ­×E8Ÿ¡ÅÑ2J$4e6dcb59-e909-465a-969e-af5104d7896c
+
+java:S1612J"9Replace this lambda with method reference 'Car::getMake'.(µù„‹ıÿÿÿÿ8Ÿ¡ÅÑ2J$dd12692f-0eba-4f94-a6a6-38b757ffcb63
+~	java:S125M"<This block of commented-out lines of code should be removed.(ĞÂşÚ8 ¡ÅÑ2J$a74ba59c-4bc9-4ef4-9f94-42e17fd2b0b7
+†
+java:S1155S">Use isEmpty() to check whether the collection is empty or not.(ş ñ¬üÿÿÿÿ8 ¡ÅÑ2J$871ba942-a2f8-4360-a78f-31a7da9dfa55
+ƒ	java:S125U"<This block of commented-out lines of code should be removed.(ìÑ¥ıÿÿÿÿ8 ¡ÅÑ2J$2046ec93-3eb7-49f1-b076-32dab02c7a28
+‰
+java:S1612Z"AReplace this lambda with method reference 'this::covertToCarDto'.(ÚÜ¦‘ıÿÿÿÿ8 ¡ÅÑ2J$b940b8ca-1e9b-4170-8128-4a2d996bcbf3
+‰
+java:S1126a"AReplace this if-then-else statement by a single return statement.(àá‹ıÿÿÿÿÿ8¡¡ÅÑ2J$92641159-19cb-4391-b6bc-05ea892e8bea
+u
+java:S1481^"-Remove this unused "carList1" local variable.(ÜâÒïıÿÿÿÿ8¡¡ÅÑ2J$fb7d1848-a144-4f15-9c83-6bb8ea32e24b
+u
+java:S1481e"-Remove this unused "carList2" local variable.(«ãÊøÿÿÿÿ8¡¡ÅÑ2J$34c1c2f7-d28b-4f57-a149-2a2aabd09059
+‰
+java:S1612i"AReplace this lambda with method reference 'this::covertToCarDto'.(ÚÜ¦‘ıÿÿÿÿ8¢¡ÅÑ2J$f05345f2-84db-4b13-b8ab-4688b570160c
+„	java:S125…"<This block of commented-out lines of code should be removed.(Ó÷¿ôúÿÿÿÿ8£¡ÅÑ2J$ca8cf027-f6af-44b0-af6e-bacc512151d0
+‰
+java:S1612‹"FReplace this lambda with method reference 'Location::getLocationName'.(Œ¥³L8¤¡ÅÑ2J$4e0c1802-6819-47ff-9154-221e8d987959
+„	java:S125‘"<This block of commented-out lines of code should be removed.(Äœ½­úÿÿÿÿ8¤¡ÅÑ2J$b095ed7f-af01-44ec-842d-4b009aef49f8
+…
+java:S1612«"AReplace this lambda with method reference 'this::covertToCarDto'.(²œªÈ8¦¡ÅÑ2J$5ac532a4-1afe-4fb8-bfca-c75afe5d0b2b
+…
+java:S1612±"AReplace this lambda with method reference 'this::covertToCarDto'.(²œªÈ8¦¡ÅÑ2J$498568c2-28d5-4dc2-8c15-d58c4c5abe84
+g
+java:S2119Ì"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8¨¡ÅÑ2J$f8a1d422-0648-4708-8063-9690a4f11fcc

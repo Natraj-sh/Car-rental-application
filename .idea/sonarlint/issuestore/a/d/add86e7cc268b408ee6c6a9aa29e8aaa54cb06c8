@@ -1,0 +1,13 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÿÛéô1J$2f7d2572-0295-4073-82e1-6a3e31babebb
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8€Üéô1J$a637483a-d414-4b75-aad9-a9a0138b4dfc
+‘
+java:S1128"NRemove this unused import 'com.example.carapplication.dao.CustomerRepository'.(±²º‘8Åâ´èü1J$22734910-613d-4d8c-b923-21c9182aee58
+…
+java:S1128"BRemove this unused import 'com.example.carapplication.dto.CarDTO'.(ÊÁ¯¿8Åâ´èü1J$e3210b4b-a931-4f35-9ad1-bdb1760978bb
+‰
+java:S1128	"ARemove this unused import 'com.example.carapplication.model.Car'.(¥÷®Şùÿÿÿÿ8Åâ´èü1J$842eebd7-65f2-4be0-9134-e50c57fd8b8d
+ƒ
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿ8Åâ´èü1J$e700decc-179a-4788-9f3d-2ce5902b3cb1
