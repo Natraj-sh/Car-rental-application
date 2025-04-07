@@ -1,0 +1,45 @@
+
+’
+java:S1192‡"VDefine a constant instead of duplicating this literal "Driver not registered" 3 times.(àå}J$4b29bcc3-7639-46ca-9ac0-8be80d1594c7
+’
+java:S3655™"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¨Úò—üÿÿÿÿJ$be9d1921-9507-4ef7-8f21-e996014bf711
+s
+java:S3958>"2Refactor the code so this stream pipeline is used.(ÓÂû²üÿÿÿÿJ$f8de89e2-a9cc-4e5e-9b7f-5514ba30cc8a
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$7903a872-4a59-45dd-a043-3d8ace1d7aae
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$8e57da34-6614-4026-97dc-eb922e1ea401
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$ac948a6a-807f-4fd9-b84a-090dc3f14d56
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$7eec899b-fcab-4942-8df3-bbef4bbf519f
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$981467d9-5bc5-4504-94d0-5d70569a0254
+~
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄÞJ$fd77535e-4686-4fcb-9b40-ac1df56878cf
+~
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄÞJ$a35297ee-c34f-4200-978e-5363f6a15b59
+{
+java:S1854,":Remove this useless assignment to local variable "driver".(´ä‡€üÿÿÿÿJ$7c2852a0-100f-4997-aead-f2019a22b2c0
+w	java:S1250"<This block of commented-out lines of code should be removed.(ìƒ¸J$34c2a027-f52f-49e5-97ca-44ec76734f35
+v	java:S125C"<This block of commented-out lines of code should be removed.(õ¶ŸJ$88bedd15-c184-4e48-b27d-43023b47f4ec
+w	java:S125I"<This block of commented-out lines of code should be removed.(„ëžÍJ$6d0e9eac-db0e-4488-ac2f-aaee80358a97
+v	java:S125i"<This block of commented-out lines of code should be removed.(õ¶ŸJ$034bc255-c89e-4759-9e11-e90af97d93c2
+{
+java:S1612r"?Replace this lambda with method reference 'this::convertToDto'.(•õáÆJ$a0539430-37bc-40a1-9bf7-52010ce48d2d
+w	java:S125w"<This block of commented-out lines of code should be removed.(‘Üã«J$24799344-a204-4805-b155-6f47da2931e3
+v	java:S125"<This block of commented-out lines of code should be removed.(õ¶ŸJ$350a38e7-8a68-403a-befd-ff45ef98741c
+x	java:S125’"<This block of commented-out lines of code should be removed.(Î¥û¤J$8107de82-ab8e-4f73-a3b1-f8d8aea4a0a4
+x	java:S125Ÿ"<This block of commented-out lines of code should be removed.(„§ñ£J$21202394-e37d-4ca9-aecf-ba2d1332f525
+|
+java:S1854¤":Remove this useless assignment to local variable "driver".(Ó©½úÿÿÿÿJ$749f4857-67fd-405d-822c-abeed4e30a08
+m
+java:S1481¤"+Remove this unused "driver" local variable.(Ó©½úÿÿÿÿJ$1d3cbcb2-c166-4842-8e18-51bd14737b9b
+~
+java:S1126§"AReplace this if-then-else statement by a single return statement.(¹ü±¹J$04a871ad-9064-48e7-b83a-0e25c795a465
+}	java:S125·"<This block of commented-out lines of code should be removed.(ÉÇ®ƒùÿÿÿÿJ$8b50963b-26d7-45b1-b046-8cbfcaacf568
+ƒ
+java:S1126º"AReplace this if-then-else statement by a single return statement.(ÞÑÐ‡þÿÿÿÿJ$a7c9a7b5-8720-4ee4-9aa3-27c93c5c6631
+}	java:S125Ð"<This block of commented-out lines of code should be removed.(Âç¤úÿÿÿÿJ$87042b16-68ad-4ea3-92e3-3eb549dd5b67
+‚
+java:S1128	"ARemove this unused import 'com.sun.net.httpserver.Authenticator'.(Ì¢×€úÿÿÿÿJ$90c27d26-950a-4dbf-b2b1-4ef98bae83c2

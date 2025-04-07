@@ -1,0 +1,66 @@
+
+`
+java:S1192/"JDefine a constant instead of duplicating this literal "not found" 5 times.(¥å®
+‡
+java:S1488ø"kImmediately return this expression instead of assigning it to the temporary variable "customerCarResponse".(ä™å‰şÿÿÿÿ
+C
+java:S5411a"(Use a primitive boolean expression here.(àá‹ıÿÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ
+W
+java:S1854+"<Remove this useless assignment to local variable "customer".(âî¤ ùÿÿÿÿ
+P	java:S125."<This block of commented-out lines of code should be removed.(ñÈíS
+X
+java:S1854F"BRemove this useless assignment to local variable "carListsOfMake".(ğ ­˜
+[
+java:S1854E"@Remove this useless assignment to local variable "carsMakeName".(°Äºªÿÿÿÿÿ
+W
+java:S1854e"<Remove this useless assignment to local variable "carList2".(«ãÊøÿÿÿÿ
+W
+java:S1854^"<Remove this useless assignment to local variable "carList1".(ÜâÒïıÿÿÿÿ
+a
+java:S1612?"FReplace this lambda with method reference 'Location::getLocationCode'.(ê¡Ÿœüÿÿÿÿ
+W
+java:S1126@"AReplace this if-then-else statement by a single return statement.(Ş††ƒ
+S
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(ÿ­×E
+T
+java:S1612J"9Replace this lambda with method reference 'Car::getMake'.(µù„‹ıÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(ĞÂşÚ
+Y
+java:S1155S">Use isEmpty() to check whether the collection is empty or not.(ş ñ¬üÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(ìÑ¥ıÿÿÿÿ
+\
+java:S1612Z"AReplace this lambda with method reference 'this::covertToCarDto'.(ÚÜ¦‘ıÿÿÿÿ
+\
+java:S1126a"AReplace this if-then-else statement by a single return statement.(àá‹ıÿÿÿÿÿ
+H
+java:S1481^"-Remove this unused "carList1" local variable.(ÜâÒïıÿÿÿÿ
+H
+java:S1481e"-Remove this unused "carList2" local variable.(«ãÊøÿÿÿÿ
+\
+java:S1612i"AReplace this lambda with method reference 'this::covertToCarDto'.(ÚÜ¦‘ıÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(Ó÷¿ôúÿÿÿÿ
+\
+java:S1612‹"FReplace this lambda with method reference 'Location::getLocationName'.(Œ¥³L
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Äœ½­úÿÿÿÿ
+X
+java:S1612«"AReplace this lambda with method reference 'this::covertToCarDto'.(²œªÈ
+X
+java:S1612±"AReplace this lambda with method reference 'this::covertToCarDto'.(²œªÈ
+:
+java:S2119Ì"Save and re-use this "Random".(šŸ«íøÿÿÿÿ

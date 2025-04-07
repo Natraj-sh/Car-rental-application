@@ -1,0 +1,106 @@
+    {
+
+        "make": "Lambo",
+        "name": "Murceligo",
+        "color": "Red",
+        "price": 5500000,
+        "availability":5
+    }
+
+    {
+    
+        "make": "Audi",
+        "name": "R6",
+        "color": "Blue",
+        "price": 3500000,
+         "availability":2
+    }
+
+[
+  {
+
+    "make": "Ford",
+    "name": "Mustang",
+    "color": "Red",
+      "location": [
+        "madurai"
+      ],
+    "price": 2500000,
+    "availability": 1
+  },
+  {
+    "make": "Toyata",
+    "name": "Supra",
+    "color": "Orange",
+    "location": [
+            "madurai"
+          ],
+    "price": 10000000,
+    "availability": 6
+  },
+  {
+    "make": "Honda",
+    "name": "Civic",
+    "color": "Black",
+        "location": [
+                "tirunelveli"
+              ],
+    "price": 35000,
+    "availability": 1
+  },
+  {
+    "make": "Ford",
+    "name": "Endevour",
+    "color": "black",
+           "location": [
+                    "tirunelveli"
+                  ],
+    "price": 1000000,
+    "availability": 1
+  },
+
+  {
+
+    "make": "Audi",
+    "name": "R6",
+    "color": "Blue",
+               "location": [
+                        "tirunelveli"
+                      ],
+    "price": 3500000,
+    "availability": 2
+  },
+  {
+
+    "make": "Lambo",
+    "name": "Murceligo",
+    "color": "Red",
+    "price": 5500000,
+    "availability": 5
+  }
+]
+
+
+//DRIVER
+{
+  "id": 1,
+  "name": "Vetri",
+  "carNames": [
+    "Mustang"
+  ],
+  "locationName": "madurai"
+}
+
+
+//Customer
+{
+  "name": "Natraj",
+  "phone": "9003824939",
+  "locationName": "madurai"
+}
+
+{
+  "name": "Sankar",
+  "phone": "838134939",
+  "locationName": "madurai"
+}
