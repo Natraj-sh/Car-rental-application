@@ -1,0 +1,48 @@
+
+†	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$ed2c4801-1b7f-47b7-b849-b20d93ca95a4
+†	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$035b6b3f-b515-4621-b5ec-180cc998494b
+†	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$1a61e0df-519b-42a7-a602-4e391baf3df2
+†	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$2ee98c17-e75c-4505-bbf1-0ee440eec807
+‡	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$1cb277a9-190a-4f5f-ae58-9ccd584d9f70
+£
+java:S1488R"bImmediately return this expression instead of assigning it to the temporary variable "carDTOList".(µ°×ÓøÿÿÿÿJ$fcbffa21-3905-4f42-aee2-65902ef63880
+¢
+java:S1488­"`Immediately return this expression instead of assigning it to the temporary variable "carList1".(äÊÎÜøÿÿÿÿJ$71470ee4-f69a-44be-ae8a-3345c55f37ea
+j
+java:S5411™"(Use a primitive boolean expression here.(àá‹ıÿÿÿÿÿJ$ca1e65cf-a2a1-47c2-86a7-1cdaf3503719
+‰
+java:S3973Å"GUse indentation to denote the code conditionally executed by this "if".(†´®¸ÿÿÿÿÿJ$12e61d0e-9a5c-4ea4-8e52-0cf6155da831
+n
+java:S39585"2Refactor the code so this stream pipeline is used.(ÎšÀÏJ$c46bd603-f0dc-48c4-8c12-f383f6ef46e0
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$cdbc8a9c-0627-45f4-bdf8-721ab34dade2
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7a81175b-1662-4232-8fea-ae3b946e52d8
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7a904696-c642-415b-9b6a-f1f6c4e5eca0
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞJ$4930bb2d-7025-4111-9133-a0a45c3157c0
+‚
+java:S1854)":Remove this useless assignment to local variable "carObj".(µÉìĞÿÿÿÿÿ8ıú¸Œà2J$98ab7da3-5476-4652-adc3-54c38cc09d80
+v	java:S125&"<This block of commented-out lines of code should be removed.(ÈòİJ$705fdfe9-d403-4685-b4de-f4726edeeea7
+w	java:S125("<This block of commented-out lines of code should be removed.(õ»ÃïJ$df0bfa1e-ca3c-4747-94f2-3082ed37ba6f
+w	java:S1257"<This block of commented-out lines of code should be removed.(™ÃºJ$e2386658-50c9-4095-a318-799da8f1c567
+w	java:S125A"<This block of commented-out lines of code should be removed.(Û“³áJ$f448c506-47bb-46bc-b9ca-230916214a6d
+w	java:S125D"<This block of commented-out lines of code should be removed.(˜âJ$0a825984-0641-444c-9d97-bcb529b2889f
+|	java:S125J"<This block of commented-out lines of code should be removed.(İº× ùÿÿÿÿJ$3a0ccbdd-bbc6-4b85-bd78-e0bf6bee4635
+w	java:S125x"<This block of commented-out lines of code should be removed.(ÕÅ‹J$370688bb-e3ee-4777-893f-c76f677456a1
+
+java:S1854•"=Remove this useless assignment to local variable "carList12".(“˜¯úÿÿÿÿJ$4e58c06b-5ee8-4c09-a781-d8af1d270220
+}	java:S125"<This block of commented-out lines of code should be removed.(ùæÛ°ÿÿÿÿÿJ$51c21c3f-5d74-4884-a046-64686e628c81
+ƒ
+java:S1126™"AReplace this if-then-else statement by a single return statement.(àá‹ıÿÿÿÿÿJ$b7984839-2f53-4508-bd11-7720e137e33d
+p
+java:S1481•".Remove this unused "carList12" local variable.(“˜¯úÿÿÿÿJ$9d2548ff-351d-47e1-8f31-9234d1ef27ff
+x	java:S125"<This block of commented-out lines of code should be removed.(éÏâËJ$59533412-2761-472a-9de3-827d0d9d2713
+ƒ
+java:S1126±"AReplace this if-then-else statement by a single return statement.(ïÍä©üÿÿÿÿJ$1f3a3a74-a76e-4d12-803d-1f349df9ebf4
+x	java:S125¾"<This block of commented-out lines of code should be removed.(ÀºıáJ$ffb7795b-0bb9-41cf-ab06-58c2975cd4e0
+Û
+java:S1130Ã"Remove the declaration of thrown exception 'com.example.carapplication.exceptions.DriverIsNotAvailabileException', as it cannot be thrown from method's body.(Éâ¡½J$b5a456ed-e129-43a5-9cbf-98468f48a95e
+u
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ö›ÙŒà2J$91179779-5a98-4279-b0fb-b0e391500c6c
